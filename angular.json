@@ -23,9 +23,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/style.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/particles.js/particles.js"
+            ]
           },
           "configurations": {
             "production": {
